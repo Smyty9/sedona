@@ -1,8 +1,8 @@
 # Личный проект «Sedona»
 
 * Студент: [Воронов Максим](https://htmlacademy.ru/profile/id2684075).
-* Наставник: [нет] (нет).
-* Сайт: [Мой проект Sedona] (https://smyty9.github.io/sedona/).
+* Наставник: [нет](нет).
+* Сайт: [Воронов Максим](https://smyty9.github.io/sedona/).
 
 ---
 
