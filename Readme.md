@@ -2,6 +2,7 @@
 
 * Студент: [Воронов Максим](https://htmlacademy.ru/profile/id2684075).
 * Наставник: [нет] (нет).
+* Сайт: [Мой проект Sedona] (https://smyty9.github.io/sedona/).
 
 ---
 
